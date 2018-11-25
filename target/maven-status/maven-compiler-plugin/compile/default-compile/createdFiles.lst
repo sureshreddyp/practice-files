@@ -1,0 +1,5 @@
+war/AppConfig.class
+war/App.class
+war/HelloEndpoint$Result.class
+war/HelloEndpoint.class
+war/AppConfig$JerseyConfig.class
