@@ -1,0 +1,16 @@
+From 9c0de1e87c85d6f05635588585d18039948acd7e Mon Sep 17 00:00:00 2001
+From: suresh <psureshreddy01@gmail.com>
+Date: Tue, 30 Oct 2018 16:44:58 +0530
+Subject: [PATCH] f6 file was created
+
+---
+ f6 | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 f6
+
+diff --git a/f6 b/f6
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.18.0.windows.1
+
